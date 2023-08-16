@@ -1,5 +1,0 @@
-{{#user}
-Name: Rohitha Gunti
-Skills: Python, Java, Flask Framework, React Native, HTML, CSS, Javascript, SQLite, Unity3D
-Email: rohitha313@gmail.com
-{{/user}}
